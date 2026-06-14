@@ -1,0 +1,42 @@
+{
+  "neutralUrl": "https://cdn.jsdelivr.net/gh/google/model-viewer@master/packages/shared-assets/environments/neutral.hdr",
+  "tint": 0.3,
+  "generatedAt": "2026-06-10T11:55:39.580Z",
+  "files": [
+    {
+      "source": "#DDC390",
+      "color": "#DDC390",
+      "file": "neutral-tint-ddc390.hdr"
+    },
+    {
+      "source": "#CB6951",
+      "color": "#CB6951",
+      "file": "neutral-tint-cb6951.hdr"
+    },
+    {
+      "source": "#B1A5DB",
+      "color": "#B1A5DB",
+      "file": "neutral-tint-b1a5db.hdr"
+    },
+    {
+      "source": "#F5E181",
+      "color": "#F5E181",
+      "file": "neutral-tint-f5e181.hdr"
+    },
+    {
+      "source": "#869157",
+      "color": "#869157",
+      "file": "neutral-tint-869157.hdr"
+    },
+    {
+      "source": "var(--bg-element)",
+      "color": "#E7E2DA",
+      "file": "neutral-tint-bg-element-light-e7e2da.hdr"
+    },
+    {
+      "source": "var(--bg-element)",
+      "color": "#4C392B",
+      "file": "neutral-tint-bg-element-dark-4c392b.hdr"
+    }
+  ]
+}
